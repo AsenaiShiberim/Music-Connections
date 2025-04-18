@@ -1,0 +1,25 @@
+
+
+[
+    { "name": "Tupac", "image": "" },
+    { "name": "Biggie", "image": "" },
+    { "name": "Nas", "image": "" },
+    { "name": "Snoop Dogg", "image": "" },
+    { "name": "Eminem", "image": "" },
+    { "name": "Kendrick Lamar", "image": "" },
+    { "name": "Drake", "image": "" },
+    { "name": "Nicki Minaj", "image": "" },
+    { "name": "Beyoncé", "image": "" },
+    { "name": "Rihanna", "image": "" },
+    { "name": "Taylor Swift", "image": "" },
+    { "name": "Lady Gaga", "image": "" },
+    { "name": "Adele", "image": "" },
+    { "name": "Bruno Mars", "image": "" },
+    { "name": "The Weeknd", "image": "" },
+    { "name": "Frank Ocean", "image": "" },
+    { "name": "Lil Wayne", "image": "" },
+    { "name": "Travis Scott", "image": "" },
+    { "name": "Doja Cat", "image": "" },
+    { "name": "Billie Eilish", "image": "" }
+  ]
+  
